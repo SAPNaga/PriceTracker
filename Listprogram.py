@@ -1,4 +1,4 @@
-#28082022 Today
+#28082022 Today is Sunday
 #Cricketers
 cricketers = ["Sachin", "Dhoni", "Virat"]
 
